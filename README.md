@@ -19,4 +19,4 @@ The data can also be downloaded from [here](https://insights.stackoverflow.com/s
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@ayuba.shakiru/data-science-blog-post-2021-stackoverflow-developers-data-analysis-8332750d27d1).
 ## Acknowledgements
-Must give credit to the Udacity Team for making the data available and accessible [here](https://medium.com/@ayuba.shakiru/data-science-blog-post-2021-stackoverflow-developers-data-analysis-8332750d27d1). 
+Must give credit to the Udacity Team for making the data available and accessible [here](https://insights.stackoverflow.com/survey). 
